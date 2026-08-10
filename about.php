@@ -1,5 +1,5 @@
 <?php
-$pageTitle       = 'Hi | About';
+$pageTitle       = 'Hi';
 $pageDescription = 'Bug Hunter & Penetration Tester — profil, keahlian, pengalaman, dan hall of fame.';
 require_once __DIR__ . '/includes/header.php';
 ?>
