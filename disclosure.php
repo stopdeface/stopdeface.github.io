@@ -113,7 +113,7 @@ $disclosures = [
     Url : https://example.com/action/Social/login/?provider="><IMG """>alert(document.cookie)">',
     'status'   => 'Patched',
     'img_label'=> 'XSS',
-    'img_icon' => 'https://i.ibb.co.com/tMp0QZmd/image-13.png',
+    'img_icon' => 'https://i.ibb.co.com/M5Ss9fZm/image-13.png',
   ],
 ];
 
